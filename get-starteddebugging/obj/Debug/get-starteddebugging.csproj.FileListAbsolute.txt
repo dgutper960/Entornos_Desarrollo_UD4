@@ -1,0 +1,7 @@
+C:\Users\1DAW_2223_05\Desktop\get-starteddebugging\bin\Debug\get-starteddebugging.exe.config
+C:\Users\1DAW_2223_05\Desktop\get-starteddebugging\bin\Debug\get-starteddebugging.exe
+C:\Users\1DAW_2223_05\Desktop\get-starteddebugging\bin\Debug\get-starteddebugging.pdb
+C:\Users\1DAW_2223_05\Desktop\get-starteddebugging\obj\Debug\get-starteddebugging.csproj.AssemblyReference.cache
+C:\Users\1DAW_2223_05\Desktop\get-starteddebugging\obj\Debug\get-starteddebugging.csproj.CoreCompileInputs.cache
+C:\Users\1DAW_2223_05\Desktop\get-starteddebugging\obj\Debug\get-starteddebugging.exe
+C:\Users\1DAW_2223_05\Desktop\get-starteddebugging\obj\Debug\get-starteddebugging.pdb
